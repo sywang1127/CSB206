@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fnil\fcharset0 SimSun;
+\f3\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 CSB206\
+Siyan Wang\
+Sep.29.2015\
+\
+\pard\pardeftab720\ri380\qj
+
+\f1 \cf0 Reflection
+\f2 \uc0\u65306 
+\f3 \
+
+\f1 This code is much more complicated than the code we wrote before. It relates to two classes and several methods. I think to write a structural tree before writing the code is very helpful. It can help me know what methods and what classes are necessary to include in my codes. At the same time, I feel it is very necessary to click \'93tap\'94 for each line so that the structure will be clearer. Also, think as many situations as possible is important. At first, I input \'93 19041\'94(with a space before 1) and I found it is not ok to get an output. Hence, I add a trim sentence to solve this problem and it is proved to work.
+\f3 \
+}
